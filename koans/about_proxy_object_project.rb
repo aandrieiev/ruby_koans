@@ -128,7 +128,7 @@ class Television
   end
 end
 
-# Tests for the Television class.  All of theses tests should pass.
+# Tests for the Television class.  All of these tests should pass.
 class TelevisionTest < Neo::Koan
   def test_it_turns_on
     tv = Television.new
